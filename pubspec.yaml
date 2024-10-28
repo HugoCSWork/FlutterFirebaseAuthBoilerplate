@@ -34,6 +34,7 @@ dev_dependencies:
   mockito: ^5.4.4
   build_runner: ^2.4.13
   firebase_auth_mocks: ^0.14.1
+  test_coverage_badge: ^0.3.2
 
 flutter:
   uses-material-design: true

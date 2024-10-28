@@ -23,6 +23,9 @@ This project uses a feature-based architecture, where each feature is encapsulat
 
 The project is built with 100% test coverage to ensure functionality works as intended. Testing includes unit, widget, and integration tests.
 
+![Coverage](coverage_badge.svg)
+
+
 ### Integration Tests
 
 Integration tests require running the Firebase Emulator locally. For setup, refer to [Firebase Emulator Suite Setup](https://firebase.google.com/docs/emulator-suite/install_and_configure). Ensure both authentication and Cloud Firestore are enabled on the emulator.
